@@ -9,7 +9,7 @@ $(document).ready(function() {
     //Animate scroll - activate
 
     AOS.init({
-        duration: 500   // values from 0 to 3000
+        duration: 1000   // values from 0 to 3000
     });
 
 });
